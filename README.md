@@ -143,10 +143,4 @@ julien@ubuntu:~/monty$
 -   You have to use  `malloc`  and  `free`  and are not allowed to use any other function from  `man malloc`  (realloc, calloc, …))
 
 
-## Author :octocat:
-
-[Roberto Palacios](https://www.linkedin.com/in/roberto-palacios-32917654/) | [Twitter](https://twitter.com/robpalacios11)
-| [GitHub](https://github.com/robpalacios1)
-
-[Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911)
-| [GitHub](https://github.com/Esteban18911)
+## Author : Bwana Dev aka Mr MAuMau
